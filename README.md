@@ -84,6 +84,12 @@ El objetivo central es consolidar la visibilidad de los ingresos por región, ma
 
 ---
 
+## 🖼️ Evidencias / Dashboard
+
+![Dashboard de Productividad y Piezas Fabricadas](Ventas Tech.pdf)[cite: 10]
+
+---
+
 ## 📐 Medidas DAX Utilizadas
 
 El modelo analítico en Power BI incorpora lógica de cálculo mediante medidas DAX optimizadas:
