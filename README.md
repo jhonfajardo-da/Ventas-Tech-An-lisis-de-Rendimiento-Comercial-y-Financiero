@@ -80,13 +80,7 @@ El objetivo central es consolidar la visibilidad de los ingresos por región, ma
 
 ## 🖼️ Evidencias / Dashboard
 
-![Dashboard de Control Financiero y Ventas Globales](Ventas Tech.pdf)[cite: 10]
-
----
-
-## 🖼️ Evidencias / Dashboard
-
-![Dashboard de Productividad y Piezas Fabricadas](Ventas Tech.pdf)[cite: 10]
+![Dashboard de Control Financiero y Ventas Globales](Ventas Tech.pdf)
 
 ---
 
