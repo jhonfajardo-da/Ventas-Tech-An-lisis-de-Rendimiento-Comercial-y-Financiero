@@ -80,7 +80,7 @@ El objetivo central es consolidar la visibilidad de los ingresos por región, ma
 
 ## 🖼️ Evidencias / Dashboard
 
-![Ventas Tech](screenshots/overview.png)[cite: 10]
+![Ventas Tech](Ventas Tech.pdf)[cite: 10]
 
 ---
 
