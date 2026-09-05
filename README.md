@@ -84,6 +84,8 @@ El objetivo central es consolidar la visibilidad de los ingresos por región, ma
 
 ---
 
+---
+
 ## 📐 Medidas DAX Utilizadas
 
 El modelo analítico en Power BI incorpora lógica de cálculo mediante medidas DAX optimizadas:
